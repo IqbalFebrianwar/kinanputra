@@ -18,7 +18,7 @@ const Serving = () => {
                                 alt="kayu"
                                 width={20}
                                 height={20}
-                                className="max-lg:w-96"
+                                className="max-lg:w-40"
                             />
                         </div>
                         <div className="text-start max-w-80">
@@ -48,7 +48,7 @@ const Serving = () => {
                                 alt="bambu"
                                 width={20}
                                 height={20}
-                                className="max-lg:w-32"
+                                className="max-lg:w-20"
                             />
                         </div>
                         <div className="text-start max-w-80">
